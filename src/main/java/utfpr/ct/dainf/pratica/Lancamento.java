@@ -1,13 +1,12 @@
-package utfpr.ct.dainf.if62c.avaliacao;
+package utfpr.ct.dainf.pratica;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Objects;
 
 /**
- * IF62C Fundamentos de Programação 2
- * Avaliação parcial.
- * @author 
+ * Linguagem Java
+ * @author
  */
 public class Lancamento {
     private Integer conta;

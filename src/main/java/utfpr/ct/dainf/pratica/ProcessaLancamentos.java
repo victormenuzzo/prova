@@ -1,4 +1,4 @@
-package utfpr.ct.dainf.if62c.avaliacao;
+package utfpr.ct.dainf.pratica;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -7,9 +7,8 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * IF62C Fundamentos de Programação 2
- * Avaliação parcial.
- * @author 
+ * Linguagem Java
+ * @author
  */
 public class ProcessaLancamentos {
     private BufferedReader reader;
