@@ -18,5 +18,4 @@ public class Pratica {
     public static void exibeLancamentosConta(List<Lancamento> lancamentos, Integer conta) {
 
     }
- 
 }
