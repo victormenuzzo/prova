@@ -73,5 +73,4 @@ public class Lancamento {
         return obj != null && getClass() == obj.getClass()
                 && this.conta.equals(((Lancamento)obj).conta);
     }
-
 }
